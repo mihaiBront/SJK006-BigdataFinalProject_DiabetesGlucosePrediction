@@ -1,0 +1,9 @@
+{
+    // See https://go.microsoft.com/fwlink/?linkid=830387 for 
+    // more information about the launch.json format
+    // Or https://code.visualstudio.com/docs/python/tutorial-flask
+    // for more information about debugging flask in VSCode
+    "version": "0.2.0",
+    "configurations": [
+    ]
+}
