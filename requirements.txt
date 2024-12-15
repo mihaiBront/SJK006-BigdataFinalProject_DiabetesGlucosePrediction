@@ -2,3 +2,6 @@ python-dotenv
 notebook
 numpy
 pandas
+openpyxl
+matplotlib
+json
