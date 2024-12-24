@@ -4,4 +4,6 @@ numpy
 pandas
 openpyxl
 matplotlib
-json
+scipy
+scikit-learn
+pickle
