@@ -1,8 +1,8 @@
 {
     "Walk": 5.833333333333333,
     "Run": 12.0,
-    "Walking": 6.5,
-    "Sport": 6.666666666666667,
+    "Walking": 5.833333333333333,
+    "Sport": 8,
     "Outdoor Bike": 12.0,
     "Swim": 7.2,
     "Aerobic Workout": 6.6,
@@ -12,7 +12,7 @@
     "Workout": 3.6,
     "Running": 12.0,
     "Yoga": 2.4,
-    "Indoor climbing": 9.366666666666667,
+    "Indoor climbing": 9.33333333333,
     "Zumba": 7.2,
     "Swimming": 7.2,
     "Bike": 12.0,
@@ -20,5 +20,7 @@
     "Strength training": 3.6,
     "Tennis": 8.4,
     "Spinning": 8.4,
-    "Stairclimber": 7.2
+    "Stairclimber": 7.2,
+    "CoreTraining": 3.6,
+    "Cycling": 12.0
 }

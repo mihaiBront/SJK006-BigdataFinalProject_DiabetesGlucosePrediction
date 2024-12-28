@@ -1,1 +1,21 @@
-{"Walk": 142208, "Run": 17562, "Walking": 16401, "Sport": 5604, "Outdoor Bike": 3092, "Swim": 2956, "Aerobic Workout": 1663, "Hike": 1440, "Dancing": 1025, "HIIT": 738, "Workout": 694, "Running": 600, "Yoga": 645, "Indoor climbing": 520, "Zumba": 381, "Swimming": 432, "Bike": 432, "Weights": 340, "Strength training": 240, "Tennis": 120, "Spinning": 144, "Stairclimber": 26}
+{
+    "Walk": 2156,
+    "Walking": 560,
+    "Sport": 86,
+    "Workout": 177,
+    "Dancing": 40,
+    "Aerobic Workout": 143,
+    "Run": 111,
+    "Swim": 35,
+    "Outdoor Bike": 101,
+    "Yoga": 21,
+    "CoreTraining": 2,
+    "Indoor climbing": 6,
+    "Swimming": 16,
+    "Spinning": 48,
+    "Weights": 5,
+    "Running": 13,
+    "Cycling": 4,
+    "Bike": 12,
+    "HIIT": 4
+}
